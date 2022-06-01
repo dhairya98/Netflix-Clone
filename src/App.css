@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  /* Margin betweek components */
+}
+
+.App{
+  background-color: #111;
+}
+
